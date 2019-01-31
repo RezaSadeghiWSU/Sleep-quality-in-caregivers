@@ -8,7 +8,7 @@ Arxiv URLs:
 
 https://arxiv.org/abs/1803.06589
 
-This source code is provided in three levels of segregating the desired patients, catching data and preprocessing, and classificaion.
+This repository contains the source code, final models, and demos of this project. Due to the IRB, we are restricted to publish the orignal time series. However, we release the final models with the aim of reproducability and comparability of this model for the researchers.
 
 Please, cite the paper and star this implementation if you find this implementation useful. Also, feel free to contact me if you need any further information via the following link.
 
