@@ -1,7 +1,7 @@
 # The source code of paper "Sleep quality prediction in caregivers using physiological signals"
 
 
-# The functionality, inputs, and outputs of each individual files are described as follows:
+%%% The functionality, inputs, and outputs of each individual files are described as follows:
 
 
 
