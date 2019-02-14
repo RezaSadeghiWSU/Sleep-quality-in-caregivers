@@ -1,4 +1,4 @@
-# Sleep quality prediction in dementia caregivers using physiological signals
+# Sleep quality prediction in caregivers using physiological signals
 
 The source code of paper:
 
