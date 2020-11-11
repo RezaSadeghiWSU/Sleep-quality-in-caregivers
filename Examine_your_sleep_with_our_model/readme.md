@@ -2,8 +2,8 @@
 
 - How our model is created?
     - 1. Using E4, we have access to four physiological signals of Heart Rate Variability, Electrodermal Activity, Temperature, and Body Movement
-    - 2.	We extracted 20 quantitative features from the physiological signals. The list of these features and their descriptions are accessible Appendix A of the sleep quality paper. For your continence, I attached the paper to this email.
-    - 3.	We trained a random forest model using the data of 100 sleep nights of 8 caregivers.
+    - 2. We extracted 20 quantitative features from the physiological signals. The list of these features and their descriptions are accessible Appendix A of the sleep quality paper. For your continence, I attached the paper to this email.
+    - 3. We trained a random forest model using the data described in our paper. You can access the final models at "Sleep-quality-in-caregivers/Final models/"
     - For more information please refere to the main directory
     
 - How can you evaluate your sleep with our model?
