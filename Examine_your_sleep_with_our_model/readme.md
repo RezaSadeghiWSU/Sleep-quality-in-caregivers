@@ -6,7 +6,7 @@
     - 3.	We trained a random forest model using the data of 100 sleep nights of 8 caregivers.
     - For more information please refere to the main directory
     
-- How you can evaluate your sleep with our model?
+- How can you evaluate your sleep with our model?
     - 1. Put your E4 data in distinct folder of .\Data\Participant Number\Week Number\night, E.g. .\Data\Participant 1\Week 1\1
     - 2. Replace the directory of traind sleep quality model and feeling refreshed model in lines 3 and 6 of ExamineSleep.R
     - 3. Replace the direcory in line 10 with your desired directory, which contains Data folder and other functions used in ExaminSleep.R
