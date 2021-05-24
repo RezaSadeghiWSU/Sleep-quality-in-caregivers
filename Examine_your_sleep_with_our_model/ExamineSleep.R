@@ -7,7 +7,7 @@ load("C:/Users/Reza Sadeghi/Desktop/Sleep-quality-in-caregivers-master/Sleep-qua
 
 ########### load test data
 # The address of E4 data
-root="C:\\Users\\Reza Sadeghi\\Desktop\\Sleep-quality-in-caregivers-master\\Sleep-quality-in-caregivers-master/Examine your sleep with our model\\";
+root="C:\\Users\\Reza Sadeghi\\Desktop\\Sleep-quality-in-caregivers-master\\Sleep-quality-in-caregivers-master\\Examine_your_sleep_with_our_model\\";
 numberPerson = 1
 numberWeek = 2
 numberDay = 7
@@ -199,8 +199,8 @@ for (i in 1:dim(test)[1]) {
 ########### Feature analysis
 #Select a record from test data
 p_i=1
-w_i=2
-d_i=7
+w_i=1#2
+d_i=1#7
 #Heart rate variability
 selectedFeatures <- c("swsLengthHR","swsTimeHR")
 df <- fit.rf$trainingData[,selectedFeatures]
