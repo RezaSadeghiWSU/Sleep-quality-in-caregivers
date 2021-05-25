@@ -16,10 +16,10 @@
 
 - The sample of feature analysis provided from line 199 to 294:
 
-![Heart rate variability Features](https://github.com/RezaSadeghiWSU/Sleep-quality-in-caregivers/tree/master/Demos/Test1.pdf)
+Heart rate variability Features: https://github.com/RezaSadeghiWSU/Sleep-quality-in-caregivers/tree/master/Demos/Test1.pdf
 
-![Electrodermal activity Features](https://github.com/RezaSadeghiWSU/Sleep-quality-in-caregivers/tree/master/Demos/Test2.pdf)
+Electrodermal activity Features: https://github.com/RezaSadeghiWSU/Sleep-quality-in-caregivers/tree/master/Demos/Test2.pdf
 
-![Body movement Features](https://github.com/RezaSadeghiWSU/Sleep-quality-in-caregivers/tree/master/Demos/Test3.pdf)
+Body movement Features: https://github.com/RezaSadeghiWSU/Sleep-quality-in-caregivers/tree/master/Demos/Test3.pdf
 
-![Temperature Features]https://github.com/RezaSadeghiWSU/Sleep-quality-in-caregivers/tree/master/Demos/Test4.pdf)
+Temperature Features: https://github.com/RezaSadeghiWSU/Sleep-quality-in-caregivers/tree/master/Demos/Test4.pdf
