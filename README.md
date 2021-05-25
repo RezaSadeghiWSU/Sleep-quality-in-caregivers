@@ -10,7 +10,7 @@ Video: https://youtu.be/D7P9eoM4KOo
 
 Featured in: https://www.empatica.com/blog/using-the-e4-to-assess-sleep-in-caregivers-of-people-with-dementia.html
 
-Implementation details: This project has been implemented by <u>R version 3.5.0</u> and <u>MATLAB R2018b</u>
+Implementation details: This project has been implemented by **R version 3.5.0** and **MATLAB R2018b**
 
 This repository contains the source code, final models, and demos of this project. Due to the IRB restrictions, we are limited to publishing the orignal time series. However, we release the final models with the aim of reproducibility and comparability of our models for researchers.
 
