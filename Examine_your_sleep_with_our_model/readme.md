@@ -4,7 +4,7 @@
     - 1. Using E4, we have access to four physiological signals of Heart Rate Variability, Electrodermal Activity, Temperature, and Body Movement
     - 2. We extracted 20 quantitative features from the physiological signals. The list of these features and their descriptions are accessible Appendix A of the sleep quality paper. For your continence, I attached the paper to this email.
     - 3. We trained a random forest model using the data described in our paper. You can access the final models at "Sleep-quality-in-caregivers/Final models/"
-    - For more information please refere to the main directory
+    - 4. For more information please refere to the main directory
     
 - How can you evaluate your sleep with our model?
     - 1. Put your E4 data in distinct folder of .\Data\Participant Number\Week Number\#night, E.g. .\Data\Participant 1\Week 1\1
@@ -15,11 +15,7 @@
     - 6. Run ExamineSleep.R
 
 - The sample of feature analysis provided from line 199 to 294:
-
-Heart rate variability Features: https://github.com/RezaSadeghiWSU/Sleep-quality-in-caregivers/tree/master/Demos/Test1.pdf
-
-Electrodermal activity Features: https://github.com/RezaSadeghiWSU/Sleep-quality-in-caregivers/tree/master/Demos/Test2.pdf
-
-Body movement Features: https://github.com/RezaSadeghiWSU/Sleep-quality-in-caregivers/tree/master/Demos/Test3.pdf
-
-Temperature Features: https://github.com/RezaSadeghiWSU/Sleep-quality-in-caregivers/tree/master/Demos/Test4.pdf
+    - 1. Heart rate variability Features: https://github.com/RezaSadeghiWSU/Sleep-quality-in-caregivers/tree/master/Demos/Test1.pdf
+    - 2. Electrodermal activity Features: https://github.com/RezaSadeghiWSU/Sleep-quality-in-caregivers/tree/master/Demos/Test2.pdf
+    - 3. Body movement Features: https://github.com/RezaSadeghiWSU/Sleep-quality-in-caregivers/tree/master/Demos/Test3.pdf
+    - 4. Temperature Features: https://github.com/RezaSadeghiWSU/Sleep-quality-in-caregivers/tree/master/Demos/Test4.pdf
